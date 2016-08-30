@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_75b4308fe74173be518c9728bb02c37ad1d55a2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fddc5492025e821f25fb71f8d103f7b9481dfd34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9e1ab49dc08b4a158404c96169a5286b11b07e6">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_020894ad2d8923978883d9bd2a6c74e4c6f41763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_400385ffa78066dcbc5bf656d366e9d78ba3ad9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_7bc8d2a837706f6a4b279de1b50ff5e4dc3e260d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_a429b7329db31f079c91842a1a669be3c4bf26ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5b71dd0d686fac5d531963a24f78163845ed9532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_e9be58909cf13bb946182408c772c3de761c7880/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d2b140367387a5347b77ef33c6559824f2b3505f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_bcf6e6f2ddddf2275ec61029e01603892a8949b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_6117efed5584baf52b5e6a73176a505980936c1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_66de09c2be062a1799afc879d2f0cc5949be8134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_ba096024be34905b73f02b4db419345271a8aa12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f73702af490d02a71c9dfceef09b90f947050507/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a73309e782bf9ccd26ed66c7920cfbe7357f582d">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef74154c61eadd35baa19c96e9e4523e38fc8683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_541005617c7d93b0b835c8c4626a86809a030879/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/huyongqiang/MyPopuMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_587bbd2cab888c7b8608a88485aaf0ef1b11e98c/classes.dex" />
+    </item>
+
+</items>
